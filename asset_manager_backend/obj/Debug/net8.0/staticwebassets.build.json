@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j8AQ5jLuRnu38crXqe49tu7e2KnIFYrFG5WjioxhwRw=",
+  "Source": "asset_manager_backend",
+  "BasePath": "_content/asset_manager_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
